@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WtyhJwG6cO21QDTo3ZHcW2vxNNe4iY+ME1uRdhlJGS66KM+3uWN8nIfF9i03P7kPw1c64RICl2HjdKx1BU58tA==",
+  "success": true,
+  "projectFilePath": "E:\\CSharp\\Developer\\FastChen\\Wuthering Waves Tool\\src\\Wuthering Waves Tool\\Wuthering Waves Tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FastChen\\.nuget\\packages\\microsoft.data.sqlite\\8.0.5\\microsoft.data.sqlite.8.0.5.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.5\\microsoft.data.sqlite.core.8.0.5.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

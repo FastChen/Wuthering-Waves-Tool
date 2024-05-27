@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "vvaT+IAs7/36q0P2eDd9PV23fuLCqckVlW4tU8WoquHQveIqosVy5euJSbSWdCOorNXeUvoEhUPQ29YSu2sLGw==",
+  "success": true,
+  "projectFilePath": "E:\\CSharp\\Developer\\FastChen\\Wuthering Waves Tool\\Wuthering Waves Tool\\Wuthering Waves Tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FastChen\\.nuget\\packages\\microsoft.data.sqlite\\8.0.5\\microsoft.data.sqlite.8.0.5.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.5\\microsoft.data.sqlite.core.8.0.5.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.5\\microsoft.netcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.5\\microsoft.aspnetcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\FastChen\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.5\\microsoft.netcore.app.crossgen2.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

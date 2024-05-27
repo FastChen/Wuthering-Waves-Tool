@@ -1,0 +1,22 @@
+﻿<Window x:Class="Wuthering_Waves_Tool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wuthering_Waves_Tool"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="460" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="Button_Test" Content="应用修改" Click="Button_Test_Click" Margin="185,132,0,0" Width="120" Height="32" HorizontalAlignment="Left" VerticalAlignment="Top" IsEnabled="False"/>
+        <Label Content="鸣潮简易帧数解锁工具" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="—— By:FastChen" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBox_FrameRate" HorizontalAlignment="Left" Margin="10,95,0,0" TextWrapping="Wrap" Text="240" VerticalAlignment="Top" Width="380" Height="32" VerticalContentAlignment="Center"/>
+        <Label Content="自定义帧数" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Button_Read" Content="读取帧率" Click="Button_Read_Click" Margin="310,132,0,0" Width="80" Height="32" HorizontalAlignment="Left" VerticalAlignment="Top" IsEnabled="False"/>
+        <Label Content="游戏 LocalStorage.db 目录" HorizontalAlignment="Left" Margin="10,175,0,0" VerticalAlignment="Top" Width="292"/>
+        <TextBox x:Name="TextBox_Path_Game" HorizontalAlignment="Left" Height="24" Margin="10,205,0,0" TextWrapping="NoWrap" Text="\Wuthering Waves Game\Client\Saved\LocalStorage" VerticalAlignment="Top" Width="326" VerticalContentAlignment="Center" FontSize="10" IsReadOnly="True"/>
+        <Button x:Name="Button_Path_Game" Content="..." Click="Button_Path_Game_Click" Margin="346,205,0,0" Width="44" Height="24" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Content="Github/FastChen" HorizontalAlignment="Left" Margin="153,10,0,0" VerticalAlignment="Top" Foreground="#FFB5B5B5"/>
+        <Button x:Name="Button_Use" Content="使用教学" HorizontalAlignment="Left" Height="28" Margin="100,133,0,0" VerticalAlignment="Top" Width="80" Click="Button_Use_Click"/>
+    </Grid>
+</Window>

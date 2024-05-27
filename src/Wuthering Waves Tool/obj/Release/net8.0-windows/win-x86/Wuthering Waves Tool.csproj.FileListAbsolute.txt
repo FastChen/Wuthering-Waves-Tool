@@ -1,0 +1,27 @@
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\win-x86\Wuthering Waves Tool.exe
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\win-x86\Wuthering Waves Tool.deps.json
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\win-x86\Wuthering Waves Tool.runtimeconfig.json
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\win-x86\Wuthering Waves Tool.dll
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\win-x86\Wuthering Waves Tool.pdb
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\win-x86\Microsoft.Data.Sqlite.dll
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\win-x86\SQLitePCLRaw.batteries_v2.dll
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\win-x86\SQLitePCLRaw.core.dll
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\win-x86\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\win-x86\e_sqlite3.dll
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\Wuthering Waves Tool.csproj.AssemblyReference.cache
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\MainWindow.g.cs
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\App.g.cs
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\Wuthering Waves Tool_MarkupCompile.cache
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\Wuthering Waves Tool_MarkupCompile.lref
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\MainWindow.baml
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\Wuthering Waves Tool.g.resources
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\Wuthering Waves Tool.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\Wuthering Waves Tool.AssemblyInfoInputs.cache
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\Wuthering Waves Tool.AssemblyInfo.cs
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\Wuthering Waves Tool.csproj.CoreCompileInputs.cache
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\Wutherin.7ECDA68B.Up2Date
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\Wuthering Waves Tool.dll
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\refint\Wuthering Waves Tool.dll
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\Wuthering Waves Tool.pdb
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\Wuthering Waves Tool.genruntimeconfig.cache
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\obj\Release\net8.0-windows\win-x86\ref\Wuthering Waves Tool.dll

@@ -1,0 +1,3 @@
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\publish\win-x64\Wuthering Waves Tool.pdb
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\publish\win-x64\e_sqlite3.dll
+E:\CSharp\Developer\FastChen\Wuthering Waves Tool\Wuthering Waves Tool\bin\Release\net8.0-windows\publish\win-x64\Wuthering Waves Tool.exe
